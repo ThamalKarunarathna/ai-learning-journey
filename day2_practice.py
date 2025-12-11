@@ -46,4 +46,20 @@ del person["city"]
 print(person)
 
 
-#PART 3 — TUPLE
+#PART 3 — LOOPS
+
+numbers = [10, 20, 30, 40]
+
+for num in numbers:
+    print(num)
+
+#LOOP THROUGH DICTIONARY
+for key, value in person.items():
+    print(key, ":", value)
+
+
+#LOOP USING RANGE
+for i in range(1, 6):
+    print("Number:", i)
+
+
