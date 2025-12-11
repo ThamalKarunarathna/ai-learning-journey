@@ -46,4 +46,4 @@ del person["city"]
 print(person)
 
 
-#PART 3 — TUPLES
+#PART 3 — TUPLE
