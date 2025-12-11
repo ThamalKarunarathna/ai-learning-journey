@@ -44,3 +44,6 @@ print(person)
 #remove item from dictionary
 del person["city"]
 print(person)
+
+
+#PART 3 — TUPLES
